@@ -24,7 +24,7 @@
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"/>
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="37" alt="oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle-sql/oracle-sql-original.svg" height="37" alt="oracle"/>
   <img width="20"/>
 </div>
 
