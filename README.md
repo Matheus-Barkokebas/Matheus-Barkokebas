@@ -37,7 +37,6 @@
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot"/>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon-flask-original/devicon.min.css" height="35" alt="Flask"/>
 </div>
 
 ---
